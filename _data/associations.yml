@@ -1,15 +1,28 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: UCLA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Python para Ciência de Dados, Exploração e Visualização de dados
+  role: Universidade Federal da Bahia, UFBA, Brasil
+  year: 2025
+  #url: https://www.peta.org/
+  #summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
 
 
-- organization: UFBA
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
+  role: Universidade de São Paulo, USP, Brasil
+  year: 2025
+  #url: http://campuspress.yale.edu/amnesty/
+  #summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty Internation.
+
+- organization: Curso de Extensão em Análise Funcional
+  role: Universidade Federal da Bahia, UFBA, Brasil
+  year: 2024
+  #url: https://www.peta.org/
+  #summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+
+
+- organization: Curso de Extensão em Funções de uma Variável Complexa
+  role: Universidade de São Paulo, USP, Brasil
+  year: 2023
+  #url: http://campuspress.yale.edu/amnesty/
+  #summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
