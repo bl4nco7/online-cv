@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Doutorado em Matemática (em andamento)
+  uni: Universidade Federal da Bahia, UFBA, Brasil
+  year: 2023 - Atual
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Mestre em Matemática
+  uni: Universidade Federal da Bahia, UFBA, Brasil
+  year: 2023
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
+
+- degree: Bacharelado em Ciências Matemáticas
+  uni: Universidad Centroccidental Lisandro Alvarado, UCLA, Venezuela
+  year: 2019
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
